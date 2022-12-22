@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1n3I0dFrJBlSiwD07pLbrZMrxiM+Czexx1pDz0YRHtY=",
+  "Source": "EddyePlay.API.Polly.CircuitBreaker",
+  "BasePath": "_content/EddyePlay.API.Polly.CircuitBreaker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EddyePlay.API.Polly.CircuitBreaker.props" />
+</Project>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E88DF1D3-3623-43AE-8949-CF928F617B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EddyePlay.Worker.Polly.CircuitBreaker", "src\EddyePlay.Worker.Polly.CircuitBreaker\EddyePlay.Worker.Polly.CircuitBreaker.csproj", "{24D91BE2-3A18-43DF-9BB7-5044251AE298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EddyePlay.API.Polly.CircuitBreaker", "src\EddyePlay.API.Polly.CircuitBreaker\EddyePlay.API.Polly.CircuitBreaker.csproj", "{8BCF49FE-92E7-46B3-8B7E-F70FF98F4DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D91BE2-3A18-43DF-9BB7-5044251AE298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D91BE2-3A18-43DF-9BB7-5044251AE298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D91BE2-3A18-43DF-9BB7-5044251AE298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D91BE2-3A18-43DF-9BB7-5044251AE298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCF49FE-92E7-46B3-8B7E-F70FF98F4DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCF49FE-92E7-46B3-8B7E-F70FF98F4DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCF49FE-92E7-46B3-8B7E-F70FF98F4DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCF49FE-92E7-46B3-8B7E-F70FF98F4DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24D91BE2-3A18-43DF-9BB7-5044251AE298} = {E88DF1D3-3623-43AE-8949-CF928F617B9A}
+		{8BCF49FE-92E7-46B3-8B7E-F70FF98F4DEB} = {E88DF1D3-3623-43AE-8949-CF928F617B9A}
+	EndGlobalSection
+EndGlobal
