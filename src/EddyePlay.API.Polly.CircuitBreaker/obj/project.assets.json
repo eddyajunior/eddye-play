@@ -503,11 +503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\eddye-play\\src\\EddyePlay.API.Polly.CircuitBreaker\\EddyePlay.API.Polly.CircuitBreaker.csproj",
+      "projectUniqueName": "D:\\repos\\eddyajunior\\eddye-play\\src\\EddyePlay.API.Polly.CircuitBreaker\\EddyePlay.API.Polly.CircuitBreaker.csproj",
       "projectName": "EddyePlay.API.Polly.CircuitBreaker",
-      "projectPath": "C:\\repos\\eddye-play\\src\\EddyePlay.API.Polly.CircuitBreaker\\EddyePlay.API.Polly.CircuitBreaker.csproj",
+      "projectPath": "D:\\repos\\eddyajunior\\eddye-play\\src\\EddyePlay.API.Polly.CircuitBreaker\\EddyePlay.API.Polly.CircuitBreaker.csproj",
       "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\eddye-play\\src\\EddyePlay.API.Polly.CircuitBreaker\\obj\\",
+      "outputPath": "D:\\repos\\eddyajunior\\eddye-play\\src\\EddyePlay.API.Polly.CircuitBreaker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",

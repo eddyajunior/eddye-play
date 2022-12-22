@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bsQSxrT0yb1T7IZedp3+NZs1TAibrOYLq6FoVzMOJDO5Z9xw4xz6quP3dwxhrGWvAAJS5CIhtpYNH6nvitiaKg==",
+  "dgSpecHash": "3XKHwPz7YPYO/Uz1g+UjIaKTahgoovhYjnu0Z3+9Nk2oRd49Ps469emFME9NaH6XdHpDdZ66S71RUyp9j4u/Tg==",
   "success": true,
-  "projectFilePath": "C:\\repos\\eddye-play\\src\\EddyePlay.API.Polly.CircuitBreaker\\EddyePlay.API.Polly.CircuitBreaker.csproj",
+  "projectFilePath": "D:\\repos\\eddyajunior\\eddye-play\\src\\EddyePlay.API.Polly.CircuitBreaker\\EddyePlay.API.Polly.CircuitBreaker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
