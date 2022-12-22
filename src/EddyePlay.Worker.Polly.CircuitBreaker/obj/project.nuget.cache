@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rrzy9mYH6mT/9qSq7THlTH133aDFZoNNDlIG8OCTXsyzm18GWPI2M6PEXped+45E3hDfz17/o9IcS5L6x4EMYg==",
+  "dgSpecHash": "wP5eqU5RqsjbrnCRPDZIAPA3md5YMslSyzrPGdGHOQss9BT6D2YAsQUw0Wcm45wPE8AUwt1g7sbca5lp9DoVVA==",
   "success": true,
-  "projectFilePath": "C:\\repos\\eddye-play\\src\\EddyePlay.Worker.Polly.CircuitBreaker\\EddyePlay.Worker.Polly.CircuitBreaker.csproj",
+  "projectFilePath": "D:\\repos\\eddyajunior\\eddye-play\\src\\EddyePlay.Worker.Polly.CircuitBreaker\\EddyePlay.Worker.Polly.CircuitBreaker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
