@@ -4,16 +4,16 @@ namespace EddyePlay.API.JWT.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class WeatherForecastController : ControllerBase
+public class TokenController : ControllerBase
 {
-    private readonly ILogger<WeatherForecastController> _logger;
+    private readonly ILogger<TokenController> _logger;
 
-    public WeatherForecastController(ILogger<WeatherForecastController> logger)
+    public TokenController(ILogger<TokenController> logger)
     {
         _logger = logger;
     }
 
-    [HttpGet(Name = "GetWeatherForecast")]
+    [HttpGet]
     public string Get()
     {
         return TokenService.GenerateToken("edson.amaral@teste.com", "administrator");
