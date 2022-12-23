@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eVPzMU2SDwAqZXG/UunVvufkxE4uAq2vTJRhJ6DPgp4=",
+  "Source": "EddyePlay.API.JWT",
+  "BasePath": "_content/EddyePlay.API.JWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
