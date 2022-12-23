@@ -6,7 +6,6 @@ namespace EddyePlay.API.JWT.Service
 {
     public class SecurityService : ISecurityService
     {
-        // ToDo: Implementar validação de usuário e senha antes de retornar o token
         public string GetToken(TokenRequest request)
         {
             var claims = GetJwtClaims(request);
@@ -17,8 +16,8 @@ namespace EddyePlay.API.JWT.Service
 
         public Claim[] GetJwtClaims(TokenRequest request)
         {
-            var claims = new Claim[2];
-            claims[0] = new Claim("id", "0");
+            var claims = new Claim[3];
+            claims[0] = new Claim("id", new Random().Next(1, 100).ToString());
             claims[1] = new Claim("username", request.Username);
             claims[2] = new Claim("role", "test");
 
