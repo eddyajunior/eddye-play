@@ -1,6 +1,6 @@
-using EddyePlay.Application.Services.Security;
+using EddyePlay.API.JWT.Interfaces;
+using EddyePlay.API.JWT.Requests;
 using Microsoft.AspNetCore.Mvc;
-using System.Security.Claims;
 
 namespace EddyePlay.API.JWT.Controllers;
 
@@ -16,14 +16,12 @@ public class SecurityController : ControllerBase
         _logger = logger;
     }
 
-    [HttpGet("token")]
-    public string Get()
+    [HttpPost("token")]
+    public string Get(
+        [FromBody]TokenRequest request,
+        [FromServices]ISecurityService service
+        )
     {
-        var claims = new Claim[3];
-        claims[0] = new Claim("username", "edson.amaral@teste.com");
-        claims[1] = new Claim("role", "administrator");
-        claims[2] = new Claim("id", "1");
-
-        return Application.Services.Security.TokenService.GenerateJwtToken(claims);
+        return service.GetToken(request);
     }
 }

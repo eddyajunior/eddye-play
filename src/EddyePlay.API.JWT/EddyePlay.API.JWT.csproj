@@ -17,4 +17,8 @@
     <ProjectReference Include="..\EddyePlay.Application\EddyePlay.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Responses\" />
+  </ItemGroup>
+
 </Project>
