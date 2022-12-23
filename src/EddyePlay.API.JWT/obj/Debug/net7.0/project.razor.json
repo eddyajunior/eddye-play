@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\repos\\eddyajunior\\eddye-play\\src\\EddyePlay.API.Polly.CircuitBreaker\\EddyePlay.API.Polly.CircuitBreaker.csproj",
+  "FilePath": "d:\\repos\\eddyajunior\\eddye-play\\src\\EddyePlay.API.JWT\\EddyePlay.API.JWT.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16552,7 +16552,7 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "EddyePlay.API.Polly.CircuitBreaker",
+  "RootNamespace": "EddyePlay.API.JWT",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
