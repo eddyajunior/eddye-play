@@ -39,3 +39,6 @@ D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\Microsoft
 D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\EddyePlay.Application.dll
+D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\EddyePlay.Application.pdb
+D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
