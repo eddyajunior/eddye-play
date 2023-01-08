@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EddyePlay.API.Polly.Circuit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EddyePlay.API.JWT", "src\EddyePlay.API.JWT\EddyePlay.API.JWT.csproj", "{D1CD3BBC-6CE0-4F97-BBCB-04E60B2BD38C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EddyePlay.Application", "src\EddyePlay.Application\EddyePlay.Application.csproj", "{01D22512-B7CB-4815-A450-6A5B48ADB611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EddyePlay.Application", "src\EddyePlay.Application\EddyePlay.Application.csproj", "{01D22512-B7CB-4815-A450-6A5B48ADB611}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EddyePlay.WebApp.HelloWorld", "src\EddyePlay.WebApp.HelloWorld\EddyePlay.WebApp.HelloWorld.csproj", "{BDFBDF3F-411F-44D3-A6A5-FC02EE1AD1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EddyePlay.API.General", "src\EddyePlay.API.General\EddyePlay.API.General.csproj", "{A3A1F992-7BC3-4FC2-A146-A1BA49153DEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +39,14 @@ Global
 		{01D22512-B7CB-4815-A450-6A5B48ADB611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01D22512-B7CB-4815-A450-6A5B48ADB611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01D22512-B7CB-4815-A450-6A5B48ADB611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFBDF3F-411F-44D3-A6A5-FC02EE1AD1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFBDF3F-411F-44D3-A6A5-FC02EE1AD1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFBDF3F-411F-44D3-A6A5-FC02EE1AD1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFBDF3F-411F-44D3-A6A5-FC02EE1AD1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A1F992-7BC3-4FC2-A146-A1BA49153DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A1F992-7BC3-4FC2-A146-A1BA49153DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A1F992-7BC3-4FC2-A146-A1BA49153DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A1F992-7BC3-4FC2-A146-A1BA49153DEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +56,8 @@ Global
 		{8BCF49FE-92E7-46B3-8B7E-F70FF98F4DEB} = {E88DF1D3-3623-43AE-8949-CF928F617B9A}
 		{D1CD3BBC-6CE0-4F97-BBCB-04E60B2BD38C} = {E88DF1D3-3623-43AE-8949-CF928F617B9A}
 		{01D22512-B7CB-4815-A450-6A5B48ADB611} = {E88DF1D3-3623-43AE-8949-CF928F617B9A}
+		{BDFBDF3F-411F-44D3-A6A5-FC02EE1AD1F5} = {E88DF1D3-3623-43AE-8949-CF928F617B9A}
+		{A3A1F992-7BC3-4FC2-A146-A1BA49153DEB} = {E88DF1D3-3623-43AE-8949-CF928F617B9A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF6E8524-BD1D-4B5A-9997-268ACBF6E085}

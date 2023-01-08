@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "O9xYFEC65OQem/xtet9iJ7XoFAHju/F8LJ5z6iaxSSG3K6wrT4mjdk6xhUZgFEUD+ULbhMpsKo+5HASYGgJqyw==",
+  "dgSpecHash": "7npbX7gUE3be61ABpv9551lYFYgF+CHqC6C1pC4uNy6jL9Lsu+LJXZFAgQfTyR3TG0JbP3+e/7XhOjETK3kafw==",
   "success": true,
   "projectFilePath": "D:\\repos\\eddyajunior\\eddye-play\\src\\EddyePlay.Application\\EddyePlay.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\edson\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.25.1\\microsoft.identitymodel.abstractions.6.25.1.nupkg.sha512",
     "C:\\Users\\edson\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.25.1\\microsoft.identitymodel.jsonwebtokens.6.25.1.nupkg.sha512",

@@ -18,6 +18,14 @@
           "EddyePlay.API.JWT.dll": {}
         }
       },
+      "Bogus/34.0.2": {
+        "runtime": {
+          "lib/net6.0/Bogus.dll": {
+            "assemblyVersion": "34.0.2.0",
+            "fileVersion": "34.0.2.0"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authentication/2.2.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Core": "2.2.0",
@@ -365,6 +373,7 @@
       "System.Text.Json/4.7.2": {},
       "EddyePlay.Application/1.0.0": {
         "dependencies": {
+          "Bogus": "34.0.2",
           "Microsoft.Extensions.Configuration": "7.0.0",
           "System.IdentityModel.Tokens.Jwt": "6.25.1"
         },
@@ -379,6 +388,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Bogus/34.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2KQAuMn3fLAQ2r6jeiffZnpv0bi3GCW3iRB2v1KeHIEBu8MNTh9dBlLTZwGvM0pr+9doKkU8L5JgCURmTmT88A==",
+      "path": "bogus/34.0.2",
+      "hashPath": "bogus.34.0.2.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication/2.2.0": {
       "type": "package",
