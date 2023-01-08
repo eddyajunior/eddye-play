@@ -42,3 +42,4 @@ D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\System.Se
 D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\EddyePlay.Application.dll
 D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\EddyePlay.Application.pdb
 D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\repos\eddyajunior\eddye-play\src\EddyePlay.API.JWT\bin\Debug\net7.0\Bogus.dll
